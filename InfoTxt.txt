@@ -1,0 +1,5 @@
+Hello! This is supposed to contain the different operations and respective codes.
+
+code :: Operation
+
+1 :: Default
